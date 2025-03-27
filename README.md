@@ -13,6 +13,17 @@ Tình trạng nhập viện:
 Tiền sử: 
 ```
 
+## Khám bệnh diễn biến hàng ngày
+```php
+Bệnh nhân tỉnh, tiếp xức tốt
+Còn mệt từng cơn.
+chi ấm, mạch quay rõ
+Tim đều rõ, không âm thổi
+Phổi thô
+Bụng mềm, gan lách không to, ấn không đau.
+Tứ chi không yếu liệt.
+```
+
 ## Tóm tắt bệnh án
 ```php
 Bệnh nhân nam, nữ, vào viện vì … qua khai thác bệnh và thăm khám bệnh nhân có:
